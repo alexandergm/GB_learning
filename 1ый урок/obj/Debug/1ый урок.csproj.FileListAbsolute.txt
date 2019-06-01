@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\1ый урок\1ый урок\bin\Debug\1ый урок.exe.config
+C:\Users\hp\source\repos\1ый урок\1ый урок\bin\Debug\1ый урок.exe
+C:\Users\hp\source\repos\1ый урок\1ый урок\bin\Debug\1ый урок.pdb
+C:\Users\hp\source\repos\1ый урок\1ый урок\obj\Debug\1ый урок.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\1ый урок\1ый урок\obj\Debug\1ый урок.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\1ый урок\1ый урок\obj\Debug\1ый урок.exe
+C:\Users\hp\source\repos\1ый урок\1ый урок\obj\Debug\1ый урок.pdb
