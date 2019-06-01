@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\1ый урок\Методы\bin\Debug\Методы.exe.config
+C:\Users\hp\source\repos\1ый урок\Методы\bin\Debug\Методы.exe
+C:\Users\hp\source\repos\1ый урок\Методы\bin\Debug\Методы.pdb
+C:\Users\hp\source\repos\1ый урок\Методы\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\1ый урок\Методы\obj\Debug\Методы.exe
+C:\Users\hp\source\repos\1ый урок\Методы\obj\Debug\Методы.pdb
